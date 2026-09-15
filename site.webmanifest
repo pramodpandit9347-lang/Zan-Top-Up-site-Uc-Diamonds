@@ -1,0 +1,30 @@
+{
+  "name": "Zan Top-Up — Free Fire diamonds and BGMI UC",
+  "short_name": "Zan Top-Up",
+  "description": "Buy Free Fire diamonds and BGMI UC at a rate you can check.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1310",
+  "theme_color": "#0d1310",
+  "icons": [
+    {
+      "src": "assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
