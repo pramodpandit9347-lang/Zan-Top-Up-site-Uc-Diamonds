@@ -1,0 +1,16 @@
+{
+  "name": "zan-top-up",
+  "version": "1.0.0",
+  "description": "A static website for a Free Fire and BGMI top-up counter. Three pages, no backend, no build step. Open `index.html` in a browser and it runs; push it to GitHub Pages and it runs there too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "razorpay": "^2.9.8"
+  }
+}
