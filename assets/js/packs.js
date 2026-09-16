@@ -10,7 +10,7 @@
 const ZAN_CONFIG = {
   /* UPI ID that receives payments. Shown to the buyer and used to build the
      "Open UPI app" link. Replace with your own VPA, e.g. "zantopup@okaxis". */
-  upiId: "zantopup@upi",
+  upiId: "zantopup@nyes",
 
   /* Name shown inside the buyer's UPI app when the link opens. */
   payeeName: "Zan Top-Up",
@@ -21,14 +21,14 @@ const ZAN_CONFIG = {
 
   /* WhatsApp number in international format, digits only, no + or spaces.
      Used to send the order details after payment. Leave "" to hide. */
-  whatsapp: "919000000000",
+  whatsapp: "8374604403",
 
   /* Telegram username without the @. Leave "" to hide. */
-  telegram: "zantopup",
+  telegram: "@zantopup",
 
   /* Social profiles used by the header, footer and contact page. */
-  instagram: "https://www.instagram.com/",
-  twitter: "https://x.com/",
+  instagram: "https://www.instagram.com/hazeflux_editrix?stkn=MXZpam5sN2llMTdlOQ==",
+  twitter: "https://zantopup.com/",
 
   /* Contact form. Leave formspreeEndpoint empty to fall back to mailto. */
   email: "support@zantopup.example",
